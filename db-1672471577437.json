@@ -1,0 +1,51 @@
+{
+  "promotions": [
+    {
+      "id": 1,
+      "title": "Kit Notebook Acer Aspire 3 + Mochila Green, A315-41-R790, AMD Ryzen 3 2200U Dual Core",
+      "price": 1799,
+      "url": "https://www.amazon.com.br/Notebook-Acer-Mochila-A315-41-R790-Mem%C3%B3ria/dp/B07YDWLV7S/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=gatry0b-20&linkId=e4a1146599e36741a720a6a952cbc328&language=pt_BR",
+      "imageUrl": "https://m.media-amazon.com/images/I/61o0lt6Sh6L._AC_SX679_.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Faqueiro Tramontina Laguna Inox - 100 Peças",
+      "price": 246.05,
+      "url": "https://www.magazinevoce.com.br/magazinegatry/p/faqueiro-tramontina-laguna-inox-100-pecas/114933/",
+      "imageUrl": "https://cdn.gatry.com/gatry-static/promocao/imagem/0324bf9ad81ccbc5a8e22a1a41015649.png"
+    },
+    {
+      "id": 3,
+      "title": "Tênis West Coast Marrom",
+      "price": 119.99,
+      "url": "https://www.zariff.com.br/sapatenis-casual-west-coast-ravello-canvas-202704-preto",
+      "imageUrl": "https://cdn.gatry.com/gatry-static/promocao/imagem/fe0a1e4ddcbd8f9a99a05908b6d29ea2.png"
+    },
+    {
+      "id": 4,
+      "title": "Fone de Ouvido Jaybird Run XT Sport Bluetooth, Cinza",
+      "price": 699.9,
+      "url": "https://www.amazon.com.br/Ouvido-Bluetooth-Jaybird-RUN-XT/dp/B07RWF7HB3",
+      "imageUrl": "https://m.media-amazon.com/images/I/51XBQX2YD7L._AC_SY879_.jpg"
+    },
+    {
+      "title": "Buchanan's DeLuxe Blended Scotch Whisky Escocês 12 Anos 750ml",
+      "url": "https://www.americanas.com.br/produto/5813002193?utm_medium=afiliados&utm_source=aflb2w&utm_campaign=marca:acom;midia:afiliados;formato:00;subformato:00;idcampanha:acom;franq:904991&utm_content=22193_1672252615_ffe0e3f4471275b39b23dfe5b19d8142&epar=AF_00_00_AB_ACOM&opn=AFLACOM&franq=904991&WT.srch=1",
+      "imageUrl": "https://cdn.gatry.com/gatry-static/promocao/imagem/6dbff666b412abefaa1f6252c86cea1b.png",
+      "price": "90.90",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "comment": "TELA HD",
+      "promotionId": 1
+    },
+    {
+      "id": 2,
+      "comment": "de R$ 599,90 \n por R$246,05à vista \n (5% de desconto) \n ou R$ 259,00 em 5x de R$ 51,80 sem juros",
+      "promotionId": 2
+    }
+  ]
+}
